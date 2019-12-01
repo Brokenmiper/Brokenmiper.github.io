@@ -1,0 +1,48 @@
+body {
+	background-color: #FF00F7;
+	font-family: Harlow Solid, Arial;
+}	
+
+a {
+	color: #00FFF7;
+}	
+
+#container {
+	width: 1280px;
+	margin-left: auto;
+	margin-right: auto;	
+}	
+
+#navigation {
+	color: #00FFF7;
+	text-align: left;
+	width: 800px;
+	height: 30px; 
+}
+
+#main {
+	color: #00FFF7;
+	text-align: center;
+	width: 800px;
+	float: right;
+}
+
+#pontiak {
+	width: 300px;
+	float: left;
+}	
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+}
+
+li {
+  display: inline;
+  font-size: 40px;
+}
+
+p {
+	font-size: 18px;
+}

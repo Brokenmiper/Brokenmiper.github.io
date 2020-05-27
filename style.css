@@ -8,7 +8,7 @@ a {
 }	
 
 #container {
-	width: 1280px;
+	width: 1500px;
 	margin-left: auto;
 	margin-right: auto;	
 }	
@@ -16,7 +16,7 @@ a {
 #navigation {
 	color: #00FFF7;
 	text-align: left;
-	width: 2000px;
+	width: 1500px;
 	height: 30px; 
 }
 

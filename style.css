@@ -8,7 +8,7 @@ a {
 }	
 
 #container {
-	width: 1500px;
+	width: 1550px;
 	margin-left: auto;
 	margin-right: auto;	
 }	
@@ -16,7 +16,7 @@ a {
 #navigation {
 	color: #00FFF7;
 	text-align: left;
-	width: 1500px;
+	width: 1550px;
 	height: 30px; 
 }
 
@@ -46,6 +46,16 @@ a {
 	width: 300px;
 	float: left;
 }	
+
+#Euske {
+	width: 300px;
+	float: left;
+}	
+
+#Factory {
+	width: 300px;
+	float: left;
+}
 
 ul {
   list-style-type: none;

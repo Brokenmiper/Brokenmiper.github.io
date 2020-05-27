@@ -32,6 +32,21 @@ a {
 	float: left;
 }	
 
+#Noice {
+	width: 300px;
+	float: left;
+}
+
+#Alpin {
+	width: 300px;
+	float: left;
+}	
+
+#Alban {
+	width: 300px;
+	float: left;
+}	
+
 ul {
   list-style-type: none;
   margin: 0;
